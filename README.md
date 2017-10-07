@@ -8,7 +8,7 @@ Extracts all of the [Heroes of the Storm](http://us.battle.net/heroes/en/) build
 
 ## Inspiration
 
-I'm not the greatest Heroes of the Storm player so I generally do the following when playing a hero I'm not as familiar with:
+I'm not the greatest [Heroes of the Storm](http://us.battle.net/heroes/en/) player so I generally do the following when playing a hero I'm not as familiar with:
 
 1. Google for: "heroname build"
 1. Open up the first link, which is always from [Icy Veins](https://www.icy-veins.com).
@@ -48,3 +48,9 @@ From there, it goes to each page and grabs all of the builds. It associates the 
 David Drake 
 
 [@randomdrake](https://twitter.com/randomdrake) | [https://randomdrake.com](https://randomdrake.com) | [LinkedIn](https://www.linkedin.com/in/david-drake-46524752/)
+
+## Copyrights
+
+[Heroes of the Storm](http://us.battle.net/heroes/en/) &copy;2017 BLIZZARD ENTERTAINMENT, INC.
+
+[Icy Veins](https://www.icy-veins.com) &copy;2011-2017 VEDATIS S.A.S.
