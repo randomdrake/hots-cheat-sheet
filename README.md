@@ -33,7 +33,7 @@ From there, it goes to each page and grabs all of the builds. It associates the 
 
 ![Cheat Sheet PDF Preview](https://raw.githubusercontent.com/randomdrake/hots-cheat-sheet/master/cheat-sheet-pdf-preview.png)
 
-## License:
+## License
 
 >Copyright (c) 2017 David Drake
 >
