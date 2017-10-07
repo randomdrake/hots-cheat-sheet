@@ -1,6 +1,6 @@
 # hots-cheat-sheet
 
-Extracts all of the [Heroes of the Storm](http://us.battle.net/heroes/en/) builds from [Icy Veins](https://www.icy-veins.com) and puts them into CSV to create a cheat sheet.
+Heroes of the Storm Cheat Sheet extracts all of the [Heroes of the Storm](http://us.battle.net/heroes/en/) builds from [Icy Veins](https://www.icy-veins.com) and puts them into CSV to create a cheat sheet.
 
 [Download cheat-sheet.pdf](https://github.com/randomdrake/hots-cheat-sheet/raw/master/cheat-sheet.pdf) (Generated October 27th, 2017)
 
