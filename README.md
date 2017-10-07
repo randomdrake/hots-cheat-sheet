@@ -10,7 +10,7 @@ Extracts all of the [Heroes of the Storm](http://us.battle.net/heroes/en/) build
 
 I'm not the greatest Heroes of the Storm player so I generally do the following when playing a hero I'm not as familiar with:
 
-1. Google for: "<heroname> build"
+1. Google for: "heroname build"
 1. Open up the first link, which is always from [Icy Veins](https://www.icy-veins.com).
 1. Write down the numbers corresponding to the talents for each build for that hero.
 1. Collect a large pile of sticky notes like this:
