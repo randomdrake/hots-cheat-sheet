@@ -14,8 +14,8 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 #
-# journal-down.php
-# https://github.com/randomdrake/journal-down
+# get-hots-data.php
+# https://github.com/randomdrake/hots-cheat-sheet
 #
 # Written by David Drake
 # https://randomdrake.com
