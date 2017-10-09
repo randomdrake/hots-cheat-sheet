@@ -74,7 +74,7 @@ foreach ($containers as $container) {
     }
 }
 
-// Sort out heroes by name
+// Sort our heroes by name
 sort($heroPages);
 
 // Now that we have all of our individual hero pages, we can start our CSV
