@@ -112,9 +112,14 @@ foreach ($heroPages as $hero) {
     if (!count($builds)) {
         $buildNames = $container->getElementsByTagName('b');
         foreach ($buildNames as $buildName) {
-            $buildName = trim(substr($buildName->nodeValue, 0, strpos($buildName->nodeValue, ' Build')));
-            if (strlen($buildName)) {
-                $builds[] = $buildName;
+            $foundBuildName = trim(substr($buildName->nodeValue, 0, strpos($buildName->nodeValue, ' Build')));
+            if (strlen($foundBuildName)) {
+                $builds[] = $foundBuildName;
+            } else {
+                $foundBuildName = trim(substr($buildName->nodeValue, 0, strpos($buildName->nodeValue, ':')));
+                if (strlen($foundBuildName) && $foundBuildName !== 'Ability Usage') {
+                    $builds[] = $foundBuildName;
+                }
             }
         }
     }
