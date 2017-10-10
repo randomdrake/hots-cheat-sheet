@@ -97,9 +97,25 @@ foreach ($heroPages as $hero) {
     // Get the various names of builds
     $buildNames = $container->getElementsByTagName('h4');
     foreach ($buildNames as $buildName) {
-        $buildName = substr($buildName->nodeValue, 0, strpos($buildName->nodeValue, ' Build'));
+        $buildName = trim(substr($buildName->nodeValue, 0, strpos($buildName->nodeValue, ' Build')));
         if (strlen($buildName)) {
             $builds[] = $buildName;
+        }
+    }
+
+    /**
+     * KLUDGE: not all pages have the exact same formatting for build names. Some
+     * are located in a <b> tag.
+     *
+     * https://github.com/randomdrake/hots-cheat-sheet/issues/1
+     */
+    if (!count($builds)) {
+        $buildNames = $container->getElementsByTagName('b');
+        foreach ($buildNames as $buildName) {
+            $buildName = trim(substr($buildName->nodeValue, 0, strpos($buildName->nodeValue, ' Build')));
+            if (strlen($buildName)) {
+                $builds[] = $buildName;
+            }
         }
     }
 
