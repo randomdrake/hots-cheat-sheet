@@ -16,8 +16,8 @@ Auriel,"Sacred Sweep Damage",2,1,3,2,2,1,2
 Auriel,"Sacred Sweep Blind",1,1,3,2,1,1,4
 Auriel,"Detainment Strike",4,2,3,2,4,1,2
 Azmodan,Battleborn,2,2,1,2,1,1,4
+Brightwing,Teleport,2,3,2,2,4,2,2
 Brightwing,"Emerald Wind",1,1,3,2,4,2,3
-Brightwing,"Pixie Dust",1,2,3,1,3,3,4
 Cassia,"Charged Strikes",3,2,1,1,1,3,3
 Cassia,Fend,3,2,1,1,3,2,1
 Cassia,"Lightning Fury",1,2,1,1,2,1,1
@@ -51,6 +51,9 @@ Illidan,"Standard Split",1,2,2,2,3,1,4
 Jaina,Frostbolt,3,1,2,2,3,3,3
 Johanna,Defensive,3,2,3,2,2,1,3
 Johanna,Bruiser,2,3,3,1,2,1,3
+Junkrat,"Concussion Mine",1,2,1,2,2,3,4
+Junkrat,"Frag Launcher",1,1,1,2,1,3,3
+Junkrat,"Steel Trap",3,3,2,2,3,3,2
 Kael'thas,Flamestrike,1,1,1,1,1,1,4
 Kael'thas,"Living Bombs",2,1,2,1,1,2,3
 Kel'Thuzad,"Blighted Frost",2,2,2,2,2,2,2
@@ -80,13 +83,12 @@ Malthael,"Soul Rip",3,1,1,1,1,1,3
 Malthael,Reaper,3,3,2,1,3,3,3
 Medivh,Raven,3,2,2,1,3,1,5
 Medivh,Portal,1,2,2,1,1,3,1
-Muradin,Neutral,3,4,4,1,2,2,4
-Muradin,"Full Tank",3,4,4,1,2,5,3
-Muradin,"Haymaker Playmaker",2,3,3,2,3,3,4
+Muradin,Neutral,2,3,2,1,1,3,1
+Muradin,"Dwarf Toss",2,3,1,1,1,1,4
 Murky,Balanced,3,3,1,2,1,2,3
-Nazeebo,Spider,1,1,1,1,2,1,4
-Nazeebo,Zombie,3,3,2,1,3,2,4
-Nazeebo,Toad,2,3,3,1,3,1,4
+Nazeebo,Toad,2,2,3,1,3,3,4
+Nazeebo,Spider,1,2,1,1,2,1,4
+Nazeebo,Zombie,3,2,2,1,3,3,4
 Nova,"One in The Chamber",1,1,1,2,1,2,3
 Probius,"Disruption Pulse",1,2,1,1,2,3,4
 Probius,"Photon Cannon",3,2,3,2,2,2,2
@@ -107,6 +109,7 @@ Sonya,Whirlwind,2,3,1,2,1,4,4
 Sonya,Burst,1,1,1,1,3,4,4
 Stitches,Slam,4,3,4,1,2,1,1
 Stitches,Sustain,3,1,1,1,3,2,4
+Stukov,"Poppin' Pustules",4,1,1,2,1,3,3
 Stukov,"Lurking Arm",3,1,2,2,3,3,2
 Stukov,"Spine Launcher",1,4,4,2,4,2,3
 Stukov,"Weighted Pustule",2,1,1,2,1,3,2
@@ -119,9 +122,9 @@ Tassadar,"Offensive Support",1,2,1,1,2,2,1
 "The Lost Vikings","The Lost Split-Pushers",4,4,2,2,2,2,4
 "The Lost Vikings","The Lost Baleog",3,1,1,2,2,2,4
 Thrall,"Standard Sundering",1,3,3,1,2,1,4
-Thrall,"Feral Spirit",1,2,3,1,1,3,4
+Thrall,"Feral Spirit",1,2,3,2,1,3,4
+Tracer,"Burst Damage",1,1,1,2,1,1,1
 Tracer,"Basic Attack",3,3,2,3,3,1,2
-Tracer,"Sticky Bomb",1,3,1,1,3,3,3
 Tychus,Minigun,1,1,1,2,1,1,2
 Tychus,Overkill,1,3,1,1,3,3,1
 Tyrael,Aggressive,1,1,2,1,1,2,1
@@ -134,8 +137,8 @@ Valeera,Garrote,1,2,3,1,1,2,3
 Valeera,"Sinister Strike",1,1,1,1,1,1,3
 Valeera,Vanish,2,3,2,1,1,4,3
 Valla,Multishot,3,2,1,1,2,1,1
-Valla,Rancor,3,3,2,2,2,3,3
 Valla,"Hungering Arrow",1,1,3,2,1,1,4
+Valla,Rancor,3,3,2,2,2,3,3
 Varian,Protection,2,1,1,1,2,2,4
 Varian,Arms,3,1,1,2,1,3,2
 Varian,Fury,2,1,2,3,2,2,4
@@ -145,7 +148,7 @@ Xul,Skeleton,2,3,3,2,3,2,4
 Zagara,"Split Push",3,2,1,2,3,3,2
 Zagara,"Team Fight",2,1,2,1,3,2,3
 Zarya,"Anti Melee",3,3,3,2,4,3,4
-Zarya,Energy,4,3,3,2,3,3,4
-Zarya,Grenadier,1,2,1,1,4,1,4
+Zarya,Grenadier,1,2,1,2,4,1,4
 Zeratul,Mobility,2,3,3,2,3,3,4
-Zul'jin,"Basic Attack",3,2,3,1,1,3,1
+Zul'jin,"Basic Attack",2,3,3,1,2,3,1
+Zul'jin,"Twin Cleave",2,3,2,2,1,2,2
